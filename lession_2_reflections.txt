@@ -4,6 +4,8 @@ When you intitialize a repo, Git create a .git folder. You will need to make the
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area is like a buffer zone where after you commit, it will save meta file to the repo.
+The working directory is your current commit HEAD.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
